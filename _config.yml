@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IMH"
+title                    : "Integrative Mental Health"
 title_separator          : "-"
 name                     : &name "IMH"
 description              : &description "Integrative Mental Health Talks"
