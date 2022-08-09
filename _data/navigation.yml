@@ -1,25 +1,13 @@
 # main links links
 main:
-  - title: "People"
-    url: /people/
+  - title: "Next Talk"
+    url: /mext_talk/
 
-  - title: "Research"
-    url: /research/   
+  - title: "Previous Talks"
+    url: /previous_talks/   
 
-  - title: "Values"
-    url: /values/
-    
-  - title: "Community"
-    url: /community/
-  
-  - title: "Collaborators"
-    url: /collaborators/
-  
-  - title: "Join Us"
-    url: /join_us/
-    
-  - title: "Moving to Tübingen"
-    url: /moving_to_tuebingen/
+  - title: "Community & Organizers"
+    url: /comunity_organizers/
         
   - title: "Privacy Policy"
     url: /privacy_policy/
