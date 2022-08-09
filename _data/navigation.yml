@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Next Talk"
-    url: /mext_talk/
+    url: /next_talk/
 
   - title: "Previous Talks"
     url: /previous_talks/   
