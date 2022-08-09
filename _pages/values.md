@@ -7,4 +7,4 @@ Here you find information regarding all previous talks. Provied the speaker allo
 
 ## List of Talks
 
-Hans Handler on "XXX" [Youtube Vidoe](TBD)
+Hans Handler on "XXX" [Youtube Video](TBD)
