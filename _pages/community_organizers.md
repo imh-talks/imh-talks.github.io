@@ -3,7 +3,7 @@ permalink: /community_organizers/
 title: "Community & Organizers"
 ---
 
-We integrate various labs and research institutes on this platform, which are listed below
+Various researchers, labs, and institutes contribute to this resource.
 
 ## Community
 TBD
