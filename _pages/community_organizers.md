@@ -5,7 +5,7 @@ title: "Community & Organizers"
 
 Various researchers, labs, and institutes contribute to this workshop.
 
-## Organizers
+## Workshop Organizers
 [Ahmed Abdulkadir (University of Pennsylvania, USA)](https://www.med.upenn.edu/cbica/aibil/ahmeda.html) 
 <br>
 [Deepti R. Bathula (Indian Institute of Technology Ropar, India)](https://cse.iitrpr.ac.in/deepti/)
@@ -25,7 +25,7 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Yiming Xiao (University of Concordia, Canada)]()
 <br>
 
-## Steering Committee
+## Workshop Steering Committee
 [Christos Davatzikos (University of Pennsylvania, USA)]()
 <br>
 [Seyed Mostafa Kia (University of Tilburg, Netherlands)]()
@@ -37,8 +37,7 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Emma Robinson (King’s College London, UK)]()
 <br>
 
-## Programme Committee 
-
+## Workshop Program Committee 
 Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio, USA)
 <br>
 Özgün Çiçek (University of Freiburg, Germany)
@@ -62,8 +61,6 @@ Xueqi Guo (Yale University, USA)
 Francesco La Rosa (Ecole Polytechnique Fédérale de Lausanne, Switzerland)
 <br>
 Sarah Lee (Amallis Consulting, UK)
-<br>
-Esten Leonardsen (University of Oslo, Norway)
 <br>
 Tommy Löfstedt (Umeå universitet, Sweden)
 <br>
