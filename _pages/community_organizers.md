@@ -3,7 +3,7 @@ permalink: /community_organizers/
 title: "Community & Organizers"
 ---
 
-Various researchers, labs, and institutes contribute to this resource.
+Various researchers, labs, and institutes contribute to this workshop.
 
 ## Organizers
 [Ahmed Abdulkadir (University of Pennsylvania, USA)](https://www.med.upenn.edu/cbica/aibil/ahmeda.html) 
