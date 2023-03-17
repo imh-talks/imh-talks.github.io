@@ -36,3 +36,62 @@ Various researchers, labs, and institutes contribute to this workshop.
 <br>
 [Emma Robinson (King’s College London, UK)]()
 <br>
+
+## Programme Committee 
+
+Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio, USA)
+<br>
+Özgün Çiçek (University of Freiburg, Germany)
+<br>
+Onat Dalmaz (Bilkent Üniversitesi, Turkey)
+<br>
+Augustijn de Boer (Radboud University, the Netherlands)
+<br>
+Niharika S. D’Souza (IBM, USA)
+<br>
+Edouard Duchesnay (NeuroSpin, France)
+<br>
+Benoit Dufumier (NeuroSpin, France)
+<br>
+Martin Dyrba (German Center for Neurodegenerative Diseases, Germany)
+<br>
+Ahmed Elgazzar (Academisch Medisch Centrum Universiteit van Amsterdam, the Netherlands)
+<br>
+Xueqi Guo (Yale University, USA)
+<br>
+Francesco La Rosa (Ecole Polytechnique Fédérale de Lausanne, Switzerland)
+<br>
+Sarah Lee (Amallis Consulting, UK)
+<br>
+Esten Leonardsen (University of Oslo, Norway)
+<br>
+Tommy Löfstedt (Umeå universitet, Sweden)
+<br>
+John A. Onofrey (Yale University, USA)
+<br>
+Saige Rutherford (Radboud University Medical Center, the Netherlands)
+<br>
+Anil Kumar Sao (IIT Mandi, India)
+<br>
+Apoorva Sikka (Contextflow, Austria)
+<br>
+Sourena Soheili Nezhad (Radboud University Medical Center, The Netherlands)
+<br>
+Lawrence Staib (Yale University, USA)
+<br>
+Didem Stark (Bernstein Center for Computational Neuroscience, Germany)
+<br>
+Archana Venkataraman (Johns Hopkins University, USA)
+<br>
+Matthias Wilms (University of Calgary, Canada)
+<br>
+Tianbo Xu (University College London, UK)
+<br>
+Xing Yao (Vanderbilt University, USA)
+<br>
+Mariam Zabihi (University College London, UK)
+<br>
+Yuan Zhou (Fudan University, China)
+<br>
+Juntang Zhuang (Yale University, USA)
+<br>
