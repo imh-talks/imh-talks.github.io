@@ -3,4 +3,4 @@ permalink: /program/
 title: "Workshop Program"
 ---
 
-Here you find information regarding the workshop program.
+Here you find all information regarding the workshop program.
