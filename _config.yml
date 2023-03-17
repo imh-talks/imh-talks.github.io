@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning in Clinical Neuroimaging"
+title                    : "MLCN"
 title_separator          : "-"
 name                     : &name "MLCN"
 description              : &description "Machine Learning in Clinical Neuroimaging"
