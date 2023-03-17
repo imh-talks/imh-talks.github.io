@@ -26,13 +26,13 @@ Various researchers, labs, and institutes contribute to this resource.
 <br>
 
 ## Steering Committee
-[Christos Davatzikos (University of Pennsylvania School of Medicine, Philadelphia, USA)]()
+[Christos Davatzikos (University of Pennsylvania, USA)]()
 <br>
-[Seyed Mostafa Kia (University Medical Center Utrecht/Donders Institute, Netherlands)]()
+[Seyed Mostafa Kia (University of Tilburg, Netherlands)]()
 <br>
-[Andre Marquand (Donders Institute/Radboudumc, Nijmegen, Netherlands)]()
+[Andre Marquand (Donders Institute, Netherlands)]()
 <br>
-[Jonas Richiardi (Lausanne University Hospital, Lausanne, Switzerland)]()
+[Jonas Richiardi (Lausanne University Hospital, Switzerland)]()
 <br>
-[Emma Robinson (King’s College London, London, UK)]()
+[Emma Robinson (King’s College London, UK)]()
 <br>
