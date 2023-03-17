@@ -5,6 +5,9 @@ main:
 
   - title: "Workshop Program"
     url: /program/   
+    
+  - title: "Submission"
+    url: /submission/
 
   - title: "Community & Organizers"
     url: /community_organizers/
