@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Next Talk"
+  - title: "Keynote Speakers"
     url: /keynotes/
 
-  - title: "Previous Talks"
-    url: /programme/   
+  - title: "Workshop Program"
+    url: /program/   
 
   - title: "Community & Organizers"
     url: /community_organizers/
