@@ -14,15 +14,15 @@ Various researchers, labs, and institutes contribute to this resource.
 <br>
 [Mohamad Habes (University of Texas Health Science Center San Antonio, USA)](https://www.nallab.org/pi)
 <br>
-[Vinod Kumar (Max Planck Institute for Biological Cybernetics, Tubingen, Germany)](https://www.kyb.tuebingen.mpg.de/person/58996/2549)
+[Vinod Kumar (Max Planck Institute for Biological Cybernetics, Germany)](https://www.kyb.tuebingen.mpg.de/person/58996/2549)
 <br>
-[Esten Leonardsen]()
+[Esten Leonardsen(University of Oslo, Norway)]()
 <br>
-[Sindhuja Tirumalaigovindarajan]()
+[Sindhuja Tirumalaigovindarajan(University of Pennsylvania, USA)]()
 <br>
 [Thomas Wolfers (University of Tübingen, Germany)](https://mhm-lab.github.io)
 <br>
-[Yiming Xiao]()
+[Yiming Xiao (University of Concordia, Canada]()
 <br>
 
 ## Steering Committee
