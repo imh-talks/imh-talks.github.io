@@ -22,7 +22,7 @@ Various researchers, labs, and institutes contribute to this resource.
 <br>
 [Thomas Wolfers (University of Tübingen, Germany)](https://mhm-lab.github.io)
 <br>
-[Yiming Xiao (University of Concordia, Canada]()
+[Yiming Xiao (University of Concordia, Canada)]()
 <br>
 
 ## Steering Committee
