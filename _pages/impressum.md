@@ -5,7 +5,7 @@ title: "Impressum"
 This is a non comercial hompage for the workshop MLCN.
 
 ## Contact
-Thomas Wolfers(Chair - Organizing Committee), Calwerstraße 14, 72076 Tübingen 
+Thomas Wolfers (Chair of Organizing Committee), Calwerstraße 14, 72076 Tübingen 
 <br>
 E-Mail: mlcnworkshop@gmail.com 
 <br>
