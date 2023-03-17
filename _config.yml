@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning for Clinical Neuroimaging"
+title                    : "Machine Learning in Clinical Neuroimaging"
 title_separator          : "-"
 name                     : &name "MLCN"
 description              : &description "Integrative Mental Health Talks"
