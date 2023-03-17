@@ -16,7 +16,13 @@ Various researchers, labs, and institutes contribute to this resource.
 <br>
 [Vinod Kumar (Max Planck Institute for Biological Cybernetics, Tubingen, Germany)](https://www.kyb.tuebingen.mpg.de/person/58996/2549)
 <br>
+[Esten Leonardsen]()
+<br>
+[Sindhuja Tirumalaigovindarajan]()
+<br>
 [Thomas Wolfers (University of Tübingen, Germany)](https://mhm-lab.github.io)
+<br>
+[Yiming Xiao]()
 <br>
 
 ## Steering Committee
