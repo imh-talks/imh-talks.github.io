@@ -2,7 +2,7 @@
 permalink: /impressum/
 title: "Impressum"
 ---
-This is a non comercial hompage for the workshop on MLCN.
+This is a non-comercial website.
 
 ## Contact
 Thomas Wolfers - Chair of Organizing Committee
