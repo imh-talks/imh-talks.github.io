@@ -58,7 +58,7 @@ In the ***clinical neuroimaging track***, the applications of existing machin
 * Neurogenetics and brain imaging genetics
 * Mechanistic modeling
 * Brain aging
-* The presentation of clinical neuroimaging databases to stimulate developments in machine learning
+* Neuroimaging databases stimulating developments in machine learning
 * …
 
 ## MELBA Journal 
