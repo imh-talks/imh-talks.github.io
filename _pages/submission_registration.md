@@ -27,7 +27,10 @@ The workshop seeks high-quality, original, and unpublished work that addresses o
 
 ## Call for Papers 
 
-In the ***machine learning track***, we seek novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models. Topics of interest include but are not limited to:
+In the ***machine learning track***, we seek novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models. In the ***clinical neuroimaging track*** papers with an applied focus are published. We invite the community to submit conference contributions on machine learning approaches with the goal to improve our understanding of complex brain disorders, moving the field closer to precision medicine. 
+<br>
+<br>
+Topics of interest include but are not limited to:
 <br>
 <br>
 * Big data
@@ -43,12 +46,6 @@ In the ***machine learning track***, we seek novel contributions that address 
 * Unsupervised methods for stratifying brain disorders
 * Deep learning in clinical neuroimaging
 * Model uncertainty in clinical predictions
-* …
-<br>
-<br> 
-In the ***clinical neuroimaging track*** papers with an applied focus are published. The discovery of biological markers is an important challenge across different medical fields. However, for most complex brain disorders we do not have reliable biomarkers. The application of advanced machine learning methods may help to reach this goal. Therefore, we invite the community to submit conference contributions on machine learning approaches with the goal to improve our understanding of complex brain disorders, moving the field closer to precision medicine. Topics of interest include but are not limited to:
-<br>
-<br>
 * Biomarker discovery 
 * Refinement of nosology and diagnostics 
 * Biological validation of clinical syndromes 
