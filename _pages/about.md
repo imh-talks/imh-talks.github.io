@@ -14,4 +14,4 @@ We are looking forward to seeing you @ this year's workshop!
 ## Sponsors
 
 1) [University of Tübingen's Cluster of Excellence: Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) - 3000 Euros
-2) 
+2) [University of Pennsylvania's AI^2D](https://ai2d.med.upenn.edu) - 1500 Euros
