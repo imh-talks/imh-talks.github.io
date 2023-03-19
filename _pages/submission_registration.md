@@ -27,7 +27,7 @@ The workshop seeks high-quality, original, and unpublished work that addresses o
 
 ## Call for Papers 
 
-In the ***machine learning track***, we seek novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models. In the ***clinical neuroimaging track*** papers with an applied focus are published. We invite the community to submit conference contributions on machine learning approaches with the goal to improve our understanding of complex brain disorders, moving the field closer to precision medicine. 
+In the ***machine learning track***, we seek novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models. In the ***clinical neuroimaging track***, papers with an applied focus are published. We invite the community to submit conference contributions on machine learning approaches with the goal to improve our understanding of complex brain disorders, moving the field closer to precision medicine. 
 <br>
 <br>
 Topics of interest include but are not limited to:
@@ -57,7 +57,7 @@ Topics of interest include but are not limited to:
 * Database for machine learning
 * …
 
-When your article is accepted you will be asked to creaste a [cammara ready submission following these guidelines](https://mlcnworkshop.github.io/camera_ready).
+If your article is accepted, you will be asked to create a [camera ready submission following these guidelines](https://mlcnworkshop.github.io/camera_ready).
 
 ## MELBA Journal 
 We will invite the top accepted papers to submit an extended version of their contribution to the MLCN special issue at the Journal of Machine Learning for Biomedical Imaging (MELBA). The invited papers will go through an independent review process by the journal.
