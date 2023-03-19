@@ -54,84 +54,57 @@ Various researchers, labs, and institutes contribute to this workshop.
 ## Workshop Program Committee 
 Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio, USA)
 <br>
-<br>
 Özgün Çiçek (University of Freiburg, Germany)
-<br>
 <br>
 Onat Dalmaz (Bilkent Üniversitesi, Turkey)
 <br>
-<br>
 Augustijn de Boer (Radboud University, the Netherlands)
-<br>
 <br>
 Niharika S. D’Souza (IBM, USA)
 <br>
-<br>
 Edouard Duchesnay (NeuroSpin, France)
-<br>
 <br>
 Benoit Dufumier (NeuroSpin, France)
 <br>
-<br>
 Martin Dyrba (German Center for Neurodegenerative Diseases, Germany)
-<br>
 <br>
 Ahmed Elgazzar (Academisch Medisch Centrum Universiteit van Amsterdam, the Netherlands)
 <br>
-<br>
 Xueqi Guo (Yale University, USA)
-<br>
 <br>
 Francesco La Rosa (Ecole Polytechnique Fédérale de Lausanne, Switzerland)
 <br>
-<br>
 Sarah Lee (Amallis Consulting, UK)
-<br>
 <br>
 Tommy Löfstedt (Umeå universitet, Sweden)
 <br>
-<br>
 John A. Onofrey (Yale University, USA)
-<br>
 <br>
 Saige Rutherford (Radboud University Medical Center, the Netherlands)
 <br>
-<br>
 Anil Kumar Sao (IIT Mandi, India)
-<br>
 <br>
 Apoorva Sikka (Contextflow, Austria)
 <br>
-<br>
 Sourena Soheili Nezhad (Radboud University Medical Center, The Netherlands)
-<br>
 <br>
 Lawrence Staib (Yale University, USA)
 <br>
-<br>
 Didem Stark (Bernstein Center for Computational Neuroscience, Germany)
-<br>
 <br>
 Archana Venkataraman (Johns Hopkins University, USA)
 <br>
-<br>
 Matthias Wilms (University of Calgary, Canada)
-<br>
 <br>
 Tianbo Xu (University College London, UK)
 <br>
-<br>
 Xing Yao (Vanderbilt University, USA)
-<br>
 <br>
 Mariam Zabihi (University College London, UK)
 <br>
-<br>
 Yuan Zhou (Fudan University, China)
 <br>
-<br>
 Juntang Zhuang (Yale University, USA)
-<br>
 <br>
 
 ## Previous Workshop Organizers
