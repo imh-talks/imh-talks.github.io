@@ -23,7 +23,7 @@ Workshop Date:
 
 ## Submission Requirements
 
-The workshop seeks high-quality, original, and unpublished work that addresses one or more challenges described above. Papers should be submitted electronically in Springer Lecture Notes in Computer Science (LNCS) style (see this [link]() for detailed author guidelines) using the CMT system here. The page limit is 8-pages (text, figures, and tables) plus up to 2-pages of references. We review the submissions in a double-blind process. Please make sure that your submission is anonymous. Accepted papers will be published in a joint proceeding with the MICCAI 2022 conference.
+The workshop seeks high-quality, original, and unpublished work that addresses one or more challenges described above. Papers should be submitted electronically in Springer Lecture Notes in Computer Science (LNCS) style (see this [link]() for detailed author guidelines) using the CMT system here. The page limit is 8-pages (text, figures, and tables) plus up to 2-pages of references. We review the submissions in a double-blind process. Please make sure that your submission is anonymous. Accepted papers will be published in a joint proceeding with the MICCAI 2023 conference.
 
 ## Call for Papers 
 
@@ -58,8 +58,7 @@ Topics of interest include but are not limited to:
 * Database for machine learning
 * …
 <br>
-<br>
-[cammara ready submission following these guidelines](https://mlcnworkshop.github.io/camera_ready).
+When your article is accepted you will be asked to creaste a [cammara ready submission following these guidelines](https://mlcnworkshop.github.io/camera_ready).
 
 ## MELBA Journal 
 We will invite the top accepted papers to submit an extended version of their contribution to the MLCN special issue at the Journal of Machine Learning for Biomedical Imaging (MELBA). The invited papers will go through an independent review process by the journal.
