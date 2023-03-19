@@ -10,3 +10,5 @@ This year's workshop will be hybrid, thus you can participate in Vancouver or fr
 We are looking forward to seeing you @ this year's workshop!
 
 <img align="center" src="https://mlcnworkshop.github.io/images/vancouver_intro.png" width="1000 px" style="padding: 10px">
+
+## Sponsors
