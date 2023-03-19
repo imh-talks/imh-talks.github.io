@@ -13,5 +13,5 @@ We are looking forward to seeing you @ this year's workshop!
 
 ## Sponsors
 
-1) [University of Tübingen's cluster of Excellence on Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) - 3000 Euros
+1) [University of Tübingen's Cluster of Excellence: Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) - 3000 Euros
 2) 
