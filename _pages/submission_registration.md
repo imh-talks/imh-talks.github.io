@@ -3,7 +3,7 @@ permalink: /submission_registration/
 title: "Submission & Registration"
 ---
 
-Here you find all information regarding the submission requirements.
+Here you find all information regarding the submission & registration for the workshop.
 
 
 ## Registration
