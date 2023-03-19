@@ -26,8 +26,7 @@ Workshop Date:
 The workshop seeks high-quality, original, and unpublished work that addresses one or more challenges described above. Papers should be submitted electronically in Springer Lecture Notes in Computer Science (LNCS) style (see this [link]() for detailed author guidelines) using the CMT system here. The page limit is 8-pages (text, figures, and tables) plus up to 2-pages of references. We review the submissions in a double-blind process. Please make sure that your submission is anonymous. Accepted papers will be published in a joint proceeding with the MICCAI 2022 conference.
 
 ## Call for Papers 
-<br>
-<br>
+
 In the ***machine learning track***, we seek novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models. Topics of interest include but are not limited to:
 <br>
 <br>
