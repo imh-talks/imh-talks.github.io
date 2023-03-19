@@ -7,7 +7,7 @@ main:
     url: /program/   
     
   - title: "Submission & Registration"
-    url: /submissions/
+    url: /submission_registration/
 
   - title: "Community & Organizers"
     url: /community_organizers/
