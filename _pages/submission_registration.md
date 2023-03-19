@@ -55,7 +55,7 @@ Topics of interest include but are not limited to:
 * Neurogenetics and brain imaging genetics
 * Mechanistic modeling
 * Brain aging
-* Neuroimaging databases stimulating developments in machine learning
+* Database for machine learning
 * …
 
 ## MELBA Journal 
