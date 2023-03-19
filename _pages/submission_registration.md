@@ -32,7 +32,6 @@ In the ***machine learning track***, we seek novel contributions that address 
 <br>
 Topics of interest include but are not limited to:
 <br>
-<br>
 * Big data
 * Spatio-temporal brain data analysis
 * Structural data analysis
