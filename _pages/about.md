@@ -17,4 +17,4 @@ i) [University of Tübingen's Cluster of Excellence: Machine Learning for Scienc
 <br>
 ii) [University of Pennsylvania's AI^2D](https://ai2d.med.upenn.edu) - 1500 Euros
 <br>
-iii)[Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
+iii) [Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
