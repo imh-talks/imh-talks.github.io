@@ -57,6 +57,9 @@ Topics of interest include but are not limited to:
 * Brain aging
 * Database for machine learning
 * …
+<br>
+<br>
+When your paper is accepted you will be asked to create a [cammara ready submission following these guidelines]().
 
 ## MELBA Journal 
 We will invite the top accepted papers to submit an extended version of their contribution to the MLCN special issue at the Journal of Machine Learning for Biomedical Imaging (MELBA). The invited papers will go through an independent review process by the journal.
