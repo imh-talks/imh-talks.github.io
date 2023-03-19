@@ -31,13 +31,9 @@ In the ***machine learning track***, we seek novel contributions that address 
 <br>
 <br>
 * Big data
-<br>
 * Spatio-temporal brain data analysis
-<br>
 * Structural data analysis
-<br>
 * Graph theory and complex network analysis
-<br>
 * Longitudinal data analysis
 <br>
 * Model stability and interpretability
