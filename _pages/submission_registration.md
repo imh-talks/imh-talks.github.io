@@ -57,7 +57,7 @@ Topics of interest include but are not limited to:
 * Brain aging
 * Database for machine learning
 * …
-<br>
+
 When your article is accepted you will be asked to creaste a [cammara ready submission following these guidelines](https://mlcnworkshop.github.io/camera_ready).
 
 ## MELBA Journal 
