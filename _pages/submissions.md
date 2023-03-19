@@ -17,7 +17,6 @@ The workshop seeks high-quality, original, and unpublished work that addresses o
 ## Call for Papers 
 In the ***machine learning track***, we seek novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models. Topics of interest include but are not limited to:
 <br>
-<br>
 * Big data
 <br>
 * Spatio-temporal brain data analysis
@@ -49,7 +48,6 @@ In the ***machine learning track***, we seek novel contributions that address 
 <br>
 <br>
 In the ***clinical neuroimaging track***, the applications of existing machine learning algorithms are evaluated to move towards precision medicine for complex brain disorders. The discovery of biological markers in medicine is an important challenge across different fields and various experimental procedures and designs are used to detect biological signatures that can be utilized for improvement in diagnostic, treatment, or for other beneficial ends. However, for most complex brain disorders, we do not have reliable biomarkers today. The application of advanced machine learning methods may help to reach this goal. Therefore, we invite the community to submit conference contributions on machine learning approaches with the goal to improve our understanding of complex brain disorders, moving the field closer to precision medicine. Topics of interest include but are not limited to:
-<br>
 <br>
 * Biomarker discovery 
 <br>
