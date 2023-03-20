@@ -21,10 +21,10 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Vinod Kumar (Max Planck Institute for Biological Cybernetics, Germany)](https://www.kyb.tuebingen.mpg.de/person/58996/2549)
 <br>
 <br>
-[Esten Leonardsen(University of Oslo, Norway)]()
+[Esten Leonardsen (University of Oslo, Norway)]()
 <br>
 <br>
-[Sindhuja Tirumalaigovindarajan(University of Pennsylvania, USA)]()
+[Sindhuja Tirumalaigovindarajan (University of Pennsylvania, USA)]()
 <br>
 <br>
 [Thomas Wolfers (University of Tübingen, Germany)](https://mhm-lab.github.io)
