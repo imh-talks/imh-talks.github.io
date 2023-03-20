@@ -13,5 +13,7 @@ Here you find information regarding the keynote speakers.
 <br>
 2020 - Duygu Tosun-Turgut || Jorge Cardoso 
 <br>
-2019 - Pamela Douglas
+2019 - Yong Fan || Pamela Douglas
+<br>
+2018 - Christos Davatzikos || Gael Varoquaux || George Langs
 <br>
