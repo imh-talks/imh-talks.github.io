@@ -27,7 +27,7 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Sindhuja Tirumalaigovindarajan (University of Pennsylvania, USA)]()
 <br>
 <br>
-[Thomas Wolfers (University of Tübingen, Germany)](https://mhm-lab.github.io)
+[Thomas Wolfers (University Clinic Tübingen, Germany)](https://mhm-lab.github.io)
 <br>
 <br>
 [Yiming Xiao (University of Concordia, Canada)]()
