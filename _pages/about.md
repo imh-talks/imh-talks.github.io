@@ -15,7 +15,7 @@ We are looking forward to seeing you @ this year's workshop!
 
 i) [University of Tübingen's Cluster of Excellence: "Machine Learning: New Perspectives for Science"](http://www.ml-in-science.uni-tuebingen.de) - 3000 Euros
 <br>
-ii) [University of Pennsylvania's AI^2D](https://ai2d.med.upenn.edu) - 1500 Euros
+ii) [University of Pennsylvania's AI^2D](https://ai2d.med.upenn.edu) - 1500 USD
 <br>
 <img align="left" src="https://mlcnworkshop.github.io/images/ml_logo.png" width="200 px" style="padding: 10px">
 <br>
