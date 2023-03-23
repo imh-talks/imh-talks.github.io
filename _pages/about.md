@@ -19,5 +19,10 @@ ii) [University of Pennsylvania's AI^2D](https://ai2d.med.upenn.edu) - 1500 Euro
 <br>
 <img align="left" src="https://mlcnworkshop.github.io/images/ml_logo.png" width="200 px" style="padding: 10px">
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 [Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
 <br>
