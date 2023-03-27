@@ -20,9 +20,11 @@ i) [University of Tübingen's Cluster of Excellence "Machine Learning: New Persp
 <br>
 <br>
 <br>
+<br>
 ii) [University of Pennsylvania's </sup>AI<sup>2</sup>D](https://ai2d.med.upenn.edu) - 1500 USD
 <br>
 <img align="left" src="https://mlcnworkshop.github.io/images/AI2D_logo.png" width="200 px" style="padding: 10px">
+<br>
 <br>
 <br>
 <br>
