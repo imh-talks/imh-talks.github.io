@@ -21,6 +21,7 @@ i) [University of Tübingen's Cluster of Excellence "Machine Learning: New Persp
 <br>
 <br>
 <br>
+<br>
 ii) [University of Pennsylvania's </sup>AI<sup>2</sup>D](https://ai2d.med.upenn.edu) - 1500 USD
 <br>
 <br>
