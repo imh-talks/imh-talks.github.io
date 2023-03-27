@@ -15,7 +15,6 @@ We are looking forward to seeing you @ this year's workshop!
 
 i) [University of Tübingen's Cluster of Excellence "Machine Learning: New Perspectives for Science"](http://www.ml-in-science.uni-tuebingen.de) - 3000 Euros
 <br>
-<br>
 <img align="left" src="https://mlcnworkshop.github.io/images/ml_logo.png" width="250 px" style="padding: 10px">
 <br>
 <br>
@@ -30,5 +29,6 @@ ii) [University of Pennsylvania's </sup>AI<sup>2</sup>D](https://ai2d.med.upenn.
 <br>
 <br>
 <br>
-[Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
 <br>
+[Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
+
