@@ -28,5 +28,7 @@ ii) [University of Pennsylvania's </sup>AI<sup>2</sup>D](https://ai2d.med.upenn.
 <img align="left" src="https://mlcnworkshop.github.io/images/AI2D_logo.png" width="200 px" style="padding: 10px">
 <br>
 <br>
+<br>
+<br>
 [Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
 <br>
