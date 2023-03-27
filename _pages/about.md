@@ -30,6 +30,5 @@ ii) [University of Pennsylvania's </sup>AI<sup>2</sup>D](https://ai2d.med.upenn.
 <br>
 <br>
 <br>
-<br>
 [Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
 
