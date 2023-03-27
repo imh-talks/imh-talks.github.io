@@ -19,8 +19,7 @@ ii) [University of Pennsylvania's </sup>AI<sup>2</sup>D](https://ai2d.med.upenn.
 <br>
 <img align="left" src="https://mlcnworkshop.github.io/images/ml_logo.png" width="200 px" style="padding: 10px">
 <br>
-<img align="right" src="https://mlcnworkshop.github.io/images/AI2D_logo.png" width="200 px" style="padding: 10px">
-<br>
+<img align="left" src="https://mlcnworkshop.github.io/images/AI2D_logo.png" width="200 px" style="padding: 10px">
 <br>
 <br>
 <br>
