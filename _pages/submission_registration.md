@@ -8,7 +8,7 @@ Here you find all information regarding the submission & registration for the wo
 
 ## Registration
 
-Follow this [link]() to complete the registration procedure for MLCN 2023.
+Follow this [link](https://conferences.miccai.org/2023/en/REGISTRATION.html) to complete the registration procedure for MLCN 2023 via the MICCAI 2023 platform.
 
 ## Important Dates
 
