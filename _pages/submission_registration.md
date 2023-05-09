@@ -23,7 +23,7 @@ Workshop Date: 8 October, 2023
 
 ## Submission Requirements
 
-The workshop seeks high-quality, original, and unpublished work that addresses one or more challenges described above. Papers should be submitted electronically in Springer Lecture Notes in Computer Science (LNCS) style (see this [link]() for detailed author guidelines) using the CMT system here. The page limit is 8-pages (text, figures, and tables) plus up to 2-pages of references. We review the submissions in a double-blind process. Please make sure that your submission is anonymous. Accepted papers will be published in a joint proceeding with the MICCAI 2023 conference.
+The workshop seeks high-quality, original, and unpublished work that addresses one or more challenges described above. Papers should be submitted electronically in Springer Lecture Notes in Computer Science (LNCS) style (see this [link](https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html#manuscriptpreparation) for detailed author guidelines) using the CMT system here. The page limit is 8-pages (text, figures, and tables) plus up to 2-pages of references. We review the submissions in a double-blind process. Please make sure that your submission is anonymous. Accepted papers will be published in a joint proceeding with the MICCAI 2023 conference.
 
 ## Call for Papers 
 
@@ -57,6 +57,10 @@ Topics of interest include but are not limited to:
 * Database for machine learning
 * …
 
+
+## Submission process
+
+Papers should be submitted electronically in Springer Lecture Notes in Computer Science (LNCS) style (see this [link](https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html#manuscriptpreparation) for detailed author guidelines) using the [CMT system here](https://cmt3.research.microsoft.com/MLCN2023) .
 If your article is accepted, you will be asked to create a [camera ready submission following these guidelines](https://mlcnworkshop.github.io/camera_ready).
 
 ## MELBA Journal 
