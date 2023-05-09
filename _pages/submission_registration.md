@@ -12,13 +12,13 @@ Follow this [link]() to complete the registration procedure for MLCN 2023. The e
 
 ## Important Dates
 
-Paper submission deadline:
+Paper submission deadline: 25 June, 2023
 <br>
-Notification of Acceptance:
+Notification of Acceptance: 16 July, 2023
 <br>
-Camera-ready Submission: 
+Camera-ready Submission: 28 July, 2023
 <br>
-Workshop Date: 
+Workshop Date: 8 October, 2023
 <br>
 
 ## Submission Requirements
