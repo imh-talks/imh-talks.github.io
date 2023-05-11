@@ -21,7 +21,16 @@ Camera-ready Submission: 28 July, 2023
 Workshop Date: 8 October, 2023
 <br>
 
-## Submission Requirements
+## Submission Requirements & Process:
+
+To submit your work to the workshop, please ensure that it meets the following requirements:
+<ul>
+    <li>The submission should be high-quality, original, and unpublished work that addresses one or more of the challenges outlined by the workshop.</li>
+    <li>The submission should be in electronic format and adhere to Springer Lecture Notes in Computer Science (LNCS) style, which includes detailed author guidelines available at this <a href="https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html#manuscriptpreparation">link</a>.</li>
+    <li>The submission should be made through the CMT system, which can be accessed <a href="https://cmt3.research.microsoft.com/MLCN2023">here</a>. Please note that we use a double-blind review process, and therefore, submissions must be anonymous.</li>
+    <li>The submission should not exceed a total of 8 pages, including figures, tables, and text. An additional 2 pages of references are allowed.</li>
+</ul>
+<p>If your paper is accepted, it will be published in a joint proceeding with the MICCAI 2023 conference. Once accepted, you will need to prepare a camera-ready submission according to the guidelines provided at this <a href="https://mlcnworkshop.github.io/camera_ready">link</a>.</p>
 
 The workshop seeks high-quality, original, and unpublished work that addresses one or more challenges described below. Papers should be submitted electronically in Springer Lecture Notes in Computer Science (LNCS) style (see this [link](https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html#manuscriptpreparation) for detailed author guidelines) using the CMT system here. The page limit is 8-pages (text, figures, and tables) plus up to 2-pages of references. We review the submissions in a double-blind process. Please make sure that your submission is anonymous. Accepted papers will be published in a joint proceeding with the MICCAI 2023 conference.
 
