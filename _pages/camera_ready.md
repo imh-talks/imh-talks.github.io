@@ -10,14 +10,6 @@ title: "Camera Ready Submission"
 <p>If you are using LaTeX, please insert a line % index{Last Name, First Name} for every author of the paper, immediately after the author{} command. This will allow us to create an author index in the proceedings. Please also make sure that we parse authors' names into the last name and the first name correctly, particularly for authors with more than two words in their full names.</p>
 <p>The final version of your paper may expand up to 8½ pages (including figures and tables) + 2 pages for references to accommodate additional content that Springer will add to your paper to link to your supplementary material, leaving room for additional Springer content/formatting on the bottom half of page 11. Please ensure that the order of the authors on your paper is the same as that entered into CMT.</p>
 <p>The proceedings will be published as Lecture Notes in Computer Science (LNCS) in both electronic and paper versions by Springer. Please read carefully the <a href="https://example.com/information-for-authors">information for authors</a> from Springer.</p>
-<h2>Camera-ready submission checklist:</h2>
-<ul>
-  <li>The title of your paper on the CMT form matches the one in your manuscript file.</li>
-  <li>Names and affiliations of ALL authors are listed on BOTH the CMT form and in your manuscript file.</li>
-  <li>Names of ALL authors are spelled correctly and capitalized properly on BOTH the CMT form and in your manuscript file.</li>
-  <li>You have designated ONE corresponding author on the camera-ready submission form, and Springer will be contacting them to carry out a final proof check of the paper.</li>
-  <li>You have included a signed copy-right transfer form by the corresponding author. (Digital signature is not acceptable.)</li>
-  <li>You have included the final PDF of your camera-ready submission
 
 <p>Please include the following files in the .zip file:</p>
 <ul>
