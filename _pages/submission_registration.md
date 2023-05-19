@@ -34,6 +34,8 @@ To submit your work to the workshop, please ensure that it meets the following r
 
 ## Call for Papers 
 
+<img align="center" src="https://mlcnworkshop.github.io/images/pic3_PaperSubmissions.png" width="1000 px" style="padding: 10px">
+
 In the ***Machine Learning track***, we are seeking novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models.
 
 In the ***Clinical Neuroimaging track***, we are interested in papers with an applied focus. We invite the community to submit conference contributions on machine learning approaches aimed at improving our understanding of complex brain disorders and moving the field closer to precision medicine.
