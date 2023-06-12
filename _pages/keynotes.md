@@ -15,10 +15,6 @@ Dr. Jahanshad’s research focus is on developing tools and algorithms to assess
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 ## Previous Keynote Speakers
