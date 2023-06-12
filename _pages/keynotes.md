@@ -12,7 +12,12 @@ Dr. Jahanshad is director of USC’s Laboratory of Brain eScience and associate 
 <br>
 Dr. Jahanshad’s research focus is on developing tools and algorithms to assess brain structure, microstructure, and connectivity throughout the lifespan, determining genetic and environmental factors that contribute to the variability in brain connections, risk for brain dysfunctions, and outcomes for people with mental illnesses, developmental and neurodegenerative disorders, and dementias.
 Here you find information regarding the keynote speakers.
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Previous Keynote Speakers
 
 2022 - Marius de Groot || Thomas Yeo
