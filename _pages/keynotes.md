@@ -16,8 +16,8 @@ Here you find information regarding the keynote speakers.
 <br>
 <br>
 <br>
-<br>
-<br>
+
+
 ## Previous Keynote Speakers
 
 2022 - Marius de Groot || Thomas Yeo
