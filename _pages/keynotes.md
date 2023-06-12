@@ -11,7 +11,7 @@ Dr. Jahanshad is director of USC’s Laboratory of Brain eScience and associate 
 <br>
 Dr. Jahanshad’s research focus is on developing tools and algorithms to assess brain structure, microstructure, and connectivity throughout the lifespan, determining genetic and environmental factors that contribute to the variability in brain connections, risk for brain dysfunctions, and outcomes for people with mental illnesses, developmental and neurodegenerative disorders, and dementias.
 Here you find information regarding the keynote speakers. 
-
+<img align="center" src="https://mlcnworkshop.github.io/images/neda.png" width="1000 px" style="padding: 10px">
 
 ## Previous Keynote Speakers
 
