@@ -4,6 +4,11 @@ title: "Keynote Speakers"
 ---
 ## Prof. Catie Chang
 <img align="left" src="https://mlcnworkshop.github.io/images/chang.jpg" width="400 px" style="padding: 10px">Catie Chang is an Assistant Professor of Electrical and Computer Engineering, Computer Science, and Biomedical Engineering at Vanderbilt University, and is the Sally and Dave Hopkins Faculty Fellow. She received her Ph.D. in Electrical Engineering from Stanford University, following undergraduate studies at MIT. She then completed a postdoctoral fellowship at the National Institute of Neurological Disorders and Stroke. At Vanderbilt, Catie is principal investigator of the Neuroimaging and Brain Dynamics Lab, which develops engineering and computational methods for understanding the human brain. Her work draws upon signal processing and machine learning techniques to uncover information from dynamic measurements of brain activity.
+<br>
+<br>
+<br>
+<br>
+
 
 ## Prof. Neda Jahanshad
 <img align="left" src="https://mlcnworkshop.github.io/images/neda.jpg" width="400 px" style="padding: 10px">
