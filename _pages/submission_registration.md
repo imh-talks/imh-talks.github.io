@@ -12,9 +12,9 @@ Follow this [link](https://conferences.miccai.org/2023/en/REGISTRATION.html) to 
 
 ## Important Dates
 
-Paper submission deadline: 25 June, 2023
+Paper submission deadline: 30 June, 2023
 <br>
-Notification of Acceptance: 16 July, 2023
+Notification of Acceptance: 21 July, 2023
 <br>
 Camera-ready Submission: 28 July, 2023
 <br>
