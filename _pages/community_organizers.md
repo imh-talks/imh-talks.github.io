@@ -6,7 +6,7 @@ title: "Community & Organizers"
 Various researchers, labs, and institutes contribute to this workshop.
 
 ## Workshop Organizers
-[Ahmed Abdulkadir (University of Pennsylvania, USA)](https://www.med.upenn.edu/cbica/aibil/ahmeda.html) 
+[Ahmed Abdulkadir (Zürich University of Applied Sciences, Switzerland)](https://www.zhaw.ch/en/about-us/person/abdk/) 
 <br>
 <br>
 [Deepti R. Bathula (Indian Institute of Technology Ropar, India)](https://cse.iitrpr.ac.in/deepti/)
