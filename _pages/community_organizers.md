@@ -52,6 +52,82 @@ Various researchers, labs, and institutes contribute to this workshop.
 <br>
 
 ## Workshop Program Committee 
+***2023***
+Amirhossein Rasoulian (Concordia University)
+<br>
+Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio)	
+<br>
+Apoorva Sikka
+<br>
+Benoit Dufumier
+<br>
+Christian Gerloff (RWTH Aachen University)
+<br>
+Didem Stark (Charite - Universitätsmedizin Berlin)
+<br>
+Elina Thibeau-Sutre (University of Twente)
+<br>
+Francesco La Rosa (EPFL)
+<br>
+Hao Guan (University of North Carolina at Chapel Hill)
+<br>
+Hao	Li
+<br>
+Hao-Chun Yang (University of Tübingen)
+<br>
+John A Onofrey (Yale University)
+<br>
+Kassymzhomart	Kunanbayev (KAIST)
+<br>
+Lawrence H Staib (Yale University)
+<br>
+Mariam Zabihi (University College London)
+<br>
+Martin Dyrba (German Center for Neurodegenerative Diseases)
+<br>
+Matías Bossa (Vrije Universiteit Brussel)
+<br>
+Matthias Wilms (University of Calgary)
+<br>
+Naresh Nandakumar (JHU)
+<br>
+Nicolas Honnorat (UTHSCSA)
+<br>
+Niharika S. D'Souza (IBM Research)
+<br>
+Nikhil J Dhinagar (University of Southern California)
+<br>
+Owen T Carmichael (Pennington Biomedical Research Center)
+<br>
+Peiyu Duan (Yale University)
+<br>
+Sarah Lee (Amallis Consulting)
+<br>
+Stefanos Ioannou (Imperial College London)
+<br>
+Sukrit Gupta (Hasso Plattner Institute)
+<br>
+Tara Chand (University of Jena)
+<br>
+Tianbo Xu (Imperial College London)
+<br>
+Tommy Löfstedt (Umeå University)
+<br>
+Vinod Kumar (University of Tübingen)
+<br>
+Xing Yao (Vanderbilt University)
+<br>
+Xueqi Guo (Yale University)
+<br>
+Yiming Xiao (Concordia Univeristy)
+<br>
+Yuan Zhou (Fudan University)
+<br>
+Zhen Zhou (University of Pennsylvania)
+<br>
+<br>
+
+***previous***
 Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio, USA)
 <br>
 Özgün Çiçek (University of Freiburg, Germany)
