@@ -54,6 +54,8 @@ Various researchers, labs, and institutes contribute to this workshop.
 ## Workshop Program Committee 
 
 ***2023***
+<br>
+<br>
 Amirhossein Rasoulian (Concordia University)
 <br>
 Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio)	
@@ -129,6 +131,8 @@ Zhen Zhou (University of Pennsylvania)
 <br>
 
 ***previous***
+<br>
+<br>
 Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio, USA)
 <br>
 Özgün Çiçek (University of Freiburg, Germany)
