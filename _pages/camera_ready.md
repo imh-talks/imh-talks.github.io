@@ -10,8 +10,5 @@ Please follow these instructions:
 <br>
 1.) Before signing the copyright form, carefully read the important information for authors in the guidelines provided and adjust your layout and paper accordingly. You can access the guidelines by clicking on this [link]()
 <br>
-2.) Click on the following [link]() to access the new copyright form.
-<br>
-3.) Review the copyright form carefully, ensuring that all necessary information is filled in accurately.
-Sign the copyright form at the designated space provided.
+2.) Click on the following [link]() to access the new copyright form.Review the copyright form carefully, ensuring that all necessary information is filled in accurately. Sign the copyright form at the designated space provided.
 <br>
