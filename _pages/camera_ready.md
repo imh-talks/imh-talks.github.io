@@ -2,8 +2,6 @@
 permalink: /camera_ready/
 title: "Camera Ready Submission"
 ---
-## Camera Ready Submission
-
 Congratulations to your accapted paper! Please follow these instructions: 
 <br> 
 <br>
