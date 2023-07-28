@@ -4,8 +4,7 @@ title: "Camera Ready Submission"
 ---
 ## Camera ready submission
 
-Congratulations to your accapted paper!<br> 
-Please follow these instructions: 
+Congratulations to your accapted paper!Please follow these instructions: 
 <br> 
 <br>
 1.) Before signing the copyright form, carefully read the important information for authors in the guidelines provided and adjust your layout and paper accordingly. You can access the guidelines by clicking on this [link]()
