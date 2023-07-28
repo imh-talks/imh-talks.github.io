@@ -31,5 +31,13 @@ ii) [University of Pennsylvania's AI<sup>2</sup>D](https://ai2d.med.upenn.edu) -
 <br>
 <br>
 <br>
+iii) [Donders Institute](https://www.ru.nl/donders/) - 500 Euros
+<br>
+<br>
+<img align="left" src="https://mlcnworkshop.github.io/images/" width="300 px" style="padding: 10px">
+<br>
+<br>
+<br>
+<br>
 [Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
 
