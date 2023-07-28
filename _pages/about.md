@@ -9,9 +9,6 @@ This year's workshop will be hybrid, thus you can participate in Vancouver or fr
 
 We are looking forward to seeing you @ this year's workshop!
 
-<img align="center" src="https://mlcnworkshop.github.io/images/vancouver_intro.png" width="1000 px" style="padding: 10px">
-<img align="center" src="https://mlcnworkshop.github.io/images/pic3_PaperSubmissions.png" width="1000 px" style="padding: 10px">
-
 ## Sponsors
 
 i) [University of Tübingen's Cluster of Excellence "Machine Learning: New Perspectives for Science"](http://www.ml-in-science.uni-tuebingen.de) - 3000 Euros
@@ -31,7 +28,7 @@ ii) [University of Pennsylvania's AI<sup>2</sup>D](https://ai2d.med.upenn.edu) -
 <br>
 <br>
 <br>
-iii) [Donders Institute](https://www.ru.nl/donders/) - 500 Euros
+iii) [Donders Institute](https://www.ru.nl/donders/donders_logo.png) - 500 Euros
 <br>
 <br>
 <img align="left" src="https://mlcnworkshop.github.io/images/" width="300 px" style="padding: 10px">
