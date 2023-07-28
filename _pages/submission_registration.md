@@ -70,4 +70,4 @@ To submit your work to the workshop, please ensure that it meets the following r
 
 ## No Funds to Attend the Workshop? 
 
-If you are from a middle- or low-income country and lack the means to attend our workshop online, we have funds available for financial assistance; please write a letter of motivation along with your CV to [email](mailto:vinod.bioinfo@gmail.com)
+If you are from a middle- or low-income country and lack the means to attend our workshop online, we have funds available for financial assistance; please write a letter of motivation along with your CV to [Dr. Vinod Kumar](mailto:vinod.bioinfo@gmail.com).
