@@ -67,6 +67,3 @@ Topics of interest include but are not limited to:
     <li>Database for machine learning</li>
     <li>...</li>
 </ul>
-
-## MELBA Journal 
-We will invite the top accepted papers to submit an extended version of their contribution to the MLCN special issue at the Journal of Machine Learning for Biomedical Imaging (MELBA). The invited papers will go through an independent review process by the journal.
