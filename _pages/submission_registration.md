@@ -67,3 +67,7 @@ To submit your work to the workshop, please ensure that it meets the following r
     <li>The submission should not exceed a total of 8 pages, including figures, tables, and text. An additional 2 pages of references are allowed.</li>
 </ul>
 <p>If your paper is accepted, it will be published in a joint proceeding with the MICCAI 2023 conference. Once accepted, you will need to prepare a camera-ready submission according to the guidelines provided at this <a href="https://mlcnworkshop.github.io/camera_ready">link</a>.</p>
+
+## No Funds to Attend the Workshop? 
+
+If you are from a middle- or low-income country and lack the means to attend our workshop online, we have funds available for financial assistance; please write a letter of motivation along with your CV to [email](mailto:vinod.bioinfo@gmail.com)
