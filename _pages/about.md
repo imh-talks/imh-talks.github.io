@@ -7,7 +7,7 @@ In this international workshop on ***Machine Learning in Clinical Neuroimaging**
 
 This year's workshop will be hybrid, thus you can participate in Vancouver or from home. Please follow us on [twitter](https://twitter.com/MLCNworkshop) and check out our [submission & registration](https://mlcnworkshop.github.io/submission_registration/) if you like to submit a paper or attend the workshop.
 
-If you are from a middle- or low-income country and lack the means to attend our workshop online, we have funds available for [financial assistance](https://mlcnworkshop.github.io/submission_registration/)
+If you are from a middle- or low-income country and lack the means to attend our workshop online, we have some funds available for [financial assistance](https://mlcnworkshop.github.io/submission_registration/)
 
 We are looking forward to seeing you @ this year's workshop!
 
