@@ -69,7 +69,7 @@ Didem Stark (Charite - Universitätsmedizin Berlin)
 <br>
 Elina Thibeau-Sutre (University of Twente)
 <br>
-Francesco La Rosa (EPFL)
+Francesco La Rosa (Icahn School of Medicine at Mount Sinai)
 <br>
 Hao Guan (University of North Carolina at Chapel Hill)
 <br>
@@ -103,13 +103,13 @@ Owen T Carmichael (Pennington Biomedical Research Center)
 <br>
 Peiyu Duan (Yale University)
 <br>
+Ruisheng Su (Erasmus MC)
+<br>
 Sarah Lee (Amallis Consulting)
 <br>
 Stefanos Ioannou (Imperial College London)
 <br>
 Sukrit Gupta (Hasso Plattner Institute)
-<br>
-Su Ruisheng (Erasmus MC)
 <br>
 Tara Chand (University of Jena)
 <br>
