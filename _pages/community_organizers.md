@@ -59,7 +59,7 @@ Amirhossein Rasoulian (Concordia University)
 <br>
 Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio)	
 <br>
-Apoorva Sikka (IIT Ropar)
+Apoorva Sikka (Indian Institute of Technology Ropar)
 <br>
 Benoit Dufumier (EPFL)
 <br>
