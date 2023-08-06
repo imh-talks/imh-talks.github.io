@@ -73,7 +73,7 @@ Francesco La Rosa (Icahn School of Medicine at Mount Sinai)
 <br>
 Hao Guan (University of North Carolina at Chapel Hill)
 <br>
-Hao	Li
+Hao	Li (Vanderbilt University)
 <br>
 Hao-Chun Yang (University of Tübingen)
 <br>
