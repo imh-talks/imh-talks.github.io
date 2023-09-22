@@ -14,7 +14,6 @@ Large-scale neuroimaging collaborations have been established to help tackle the
 <br>
 <br>
 <br>
-<br>
 
 KEYNOTE 1: Catie Chang
 <br>
