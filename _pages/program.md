@@ -23,4 +23,4 @@ Advances in non-invasive imaging technology have enabled measuring human brain a
 <br>
 <br>
 
-<img align="center" src="https://mlcnworkshop.github.io/images/prog.png" width="10000 px" style="padding: 10px">
+<img align="center" src="https://mlcnworkshop.github.io/images/progr.png" width="10000 px" style="padding: 10px">
