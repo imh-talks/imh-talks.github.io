@@ -3,9 +3,9 @@ permalink: /program/
 title: "Workshop Program"
 ---
 
-Here you find all information regarding the workshop program.
+Here you find all information regarding the workshop program and by [clicking here](https://link.springer.com/book/10.1007/978-3-031-44858-4) you get access to the proceedings.
 
-KEYNOTE 1: Neda Jahanshad
+KEYNOTE: Neda Jahanshad
 <br>
 <br>
 ***TITLE: AI/ML for continuously larger scale international neuroimaging research***
@@ -14,7 +14,7 @@ Large-scale neuroimaging collaborations have been established to help tackle the
 <br>
 <br>
 
-KEYNOTE 1: Catie Chang
+KEYNOTE: Catie Chang
 <br>
 <br>
 ***TITLE: Computational approaches for investigating the dynamic brain***
