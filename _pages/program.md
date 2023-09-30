@@ -3,7 +3,7 @@ permalink: /program/
 title: "Workshop Program"
 ---
 
-Here you find all information regarding the workshop program and by [clicking here](https://link.springer.com/book/10.1007/978-3-031-44858-4) you get access to the proceedings.
+Here you find all information regarding the workshop program and by [clicking here](https://link.springer.com/book/10.1007/978-3-031-44858-4) you get access to the proceedings of the workshop.
 
 KEYNOTE: Neda Jahanshad
 <br>
