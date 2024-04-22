@@ -22,6 +22,7 @@ Dr. Jahanshad’s research focus is on developing tools and algorithms to assess
 
 ## Previous Keynote Speakers
 
+2023 -  Neda Jahanshad || Catie Chang
 2022 - Marius de Groot || Thomas Yeo
 <br>
 2021 - Adrian Dalca || Paul Thompson 
