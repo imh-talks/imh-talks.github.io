@@ -5,7 +5,7 @@ title: "Impressum"
 This is a non-comercial website.
 
 ## Contact
-Thomas Wolfers - Chair of Organizing Committee
+Thomas Wolfers - Organizing Committee
 <br>
 Calwerstraße 14
 <br>
