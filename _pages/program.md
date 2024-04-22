@@ -3,4 +3,4 @@ permalink: /program/
 title: "Workshop Program"
 ---
 
-Here you find all information regarding the workshop program, wich is TBD
+Here you find all information regarding the workshop program - TBD
