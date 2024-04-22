@@ -180,6 +180,8 @@ Juntang Zhuang (Yale University, USA)
 <br>
 
 ## Previous Workshop Organizers
+2023 - Ahmed Abdulkadir, Deepti R. Bathula, Esten Leonardsen, Nicha C. Dvornek, Mohamad Habes, Vinod Kumar, Sindhuja Tirumalaigovindarajan, Thomas Wolfers, Yiming Xiao
+<br>
 2022 - Ahmed Abdulkadir, Deepti R. Bathula, Nicha C. Dvornek, Mohamad Habes, Seyed Mostafa Kia, Vinod Kumar, Thomas Wolfers
 <br>
 2021 - Ahmed Abdulkadir, Mohamad Habes, Seyed Mostafa Kia, Vinod Kumar, Jane Maryam Rondina, Chantal Tax, Thomas Wolfers
