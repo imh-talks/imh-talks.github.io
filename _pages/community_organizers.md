@@ -6,9 +6,6 @@ title: "Community & Organizers"
 Various researchers, labs, and institutes contribute to this workshop.
 
 ## Workshop Organizers
-[Ahmed Abdulkadir (University of Pennsylvania, USA)](https://www.med.upenn.edu/cbica/aibil/ahmeda.html) 
-<br>
-<br>
 [Deepti R. Bathula (Indian Institute of Technology Ropar, India)](https://cse.iitrpr.ac.in/deepti/)
 <br>
 <br>
@@ -19,9 +16,6 @@ Various researchers, labs, and institutes contribute to this workshop.
 <br>
 <br>
 [Vinod Kumar (Max Planck Institute for Biological Cybernetics, Germany)](https://www.kyb.tuebingen.mpg.de/person/58996/2549)
-<br>
-<br>
-[Esten Leonardsen (University of Oslo, Norway)]()
 <br>
 <br>
 [Sindhuja Tirumalaigovindarajan (University of Pennsylvania, USA)]()
@@ -45,9 +39,6 @@ Various researchers, labs, and institutes contribute to this workshop.
 <br>
 <br>
 [Jonas Richiardi (Lausanne University Hospital, Switzerland)]()
-<br>
-<br>
-[Emma Robinson (King’s College London, UK)]()
 <br>
 <br>
 
