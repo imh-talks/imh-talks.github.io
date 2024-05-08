@@ -13,5 +13,6 @@ We are looking forward to seeing you @ this year's workshop!
 
 ### Sponsors 
 
-<img align="center" src="https://mlcnworkshop.github.io/images/AI2d.jpg" width="50 px" style="padding: 10px">
-AI2d will sonsor our event with 1500 USD
+1) AI2D sponsors MLCN with 1500 USD
+<img align="left" src="https://mlcnworkshop.github.io/images/AI2D_logo.png" width="100 px" style="padding: 10px">
+
