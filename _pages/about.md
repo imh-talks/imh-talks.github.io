@@ -10,3 +10,8 @@ In this international workshop on ***Machine Learning in Clinical Neuroimaging**
 This year's workshop will be hybrid, thus you can participate in Vancouver or from home. Please follow us on [twitter](https://twitter.com/MLCNworkshop) and check out our [submission & registration](https://mlcnworkshop.github.io/submission_registration/) if you like to submit a paper or attend the workshop. [Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
 
 We are looking forward to seeing you @ this year's workshop!
+
+### Sponsors 
+
+<img align="center" src="https://mlcnworkshop.github.io/images/AI2d.jpg" width="50 px" style="padding: 10px">
+AI2d will sonsor our event with 1500 USD
