@@ -13,9 +13,11 @@ We are looking forward to seeing you @ this year's workshop!
 
 ### Sponsors 
 
+Don't hesitate to [contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
+<br>
+<br>
 1) AI2D sponsors MLCN with 1500 USD
 <img align="left" src="https://mlcnworkshop.github.io/images/AI2D_logo.png" width="150 px" style="padding: 10px">
 <br>
 <br>
 <br>
-Don't hesitate to [Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
