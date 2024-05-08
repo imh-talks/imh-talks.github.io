@@ -18,4 +18,4 @@ We are looking forward to seeing you @ this year's workshop!
 <br>
 <br>
 <br>
-[Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
+Don't hesitate to [Contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
