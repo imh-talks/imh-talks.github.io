@@ -21,9 +21,7 @@ Camera-ready Submission: TBD
 Workshop Date: TBD
 <br>
 
-## Call for Papers 
-
-<img align="center" src="https://mlcnworkshop.github.io/images/pic3_PaperSubmissions_new.png" width="1000 px" style="padding: 10px">
+## Call for Papers -> BEST PAPER(S) AWARD 1500 USD 
 
 In the ***Machine Learning track***, we are seeking novel contributions that address current methodological gaps in analyzing high-dimensional, longitudinal, and heterogeneous clinical neuroscientific data using stable, scalable, and interpretable machine learning models.
 
