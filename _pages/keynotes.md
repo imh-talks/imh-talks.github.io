@@ -3,7 +3,7 @@ permalink: /keynotes/
 title: "Keynote Speakers"
 ---
 
-## Dr Udunna Anazodo
+## Dr. Udunna Anazodo
 Assistant Professor, Montreal Neurological Institute, McGill University, Canada
 <br>
 <br>
