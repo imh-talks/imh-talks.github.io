@@ -24,7 +24,7 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Thomas Wolfers (University Clinic Tübingen, Germany)](https://mhm-lab.github.io)
 <br>
 <br>
-[Yiming Xiao (University of Concordia, Canada)]()
+[Yiming Xiao (Concordia Universitya, Canada)]()
 <br>
 <br>
 
