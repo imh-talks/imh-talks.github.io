@@ -18,28 +18,27 @@ Various researchers, labs, and institutes contribute to this workshop.
 [Vinod Kumar (Max Planck Institute for Biological Cybernetics, Germany)](https://www.kyb.tuebingen.mpg.de/person/58996/2549)
 <br>
 <br>
-[Sindhuja Tirumalaigovindarajan (University of Pennsylvania, USA)]()
+[Anoop Benet Nirmala (Manipal Institute of Technology, India)](https://www.linkedin.com/in/anoop-benet-nirmala-phd-582213b0/)
+<br>
+<br>
+[Sindhuja Tirumalaigovindarajan (University of Pennsylvania, USA)](https://www.med.upenn.edu/cbica/sindhujatg.html)
 <br>
 <br>
 [Thomas Wolfers (University Clinic Tübingen, Germany)](https://mhm-lab.github.io)
 <br>
 <br>
-[Yiming Xiao (Concordia Universitya, Canada)]()
+[Yiming Xiao (Concordia Universitya, Canada)](http://www.healthx-lab.ca/people.html)
 <br>
 <br>
 
 ## Workshop Steering Committee
-[Christos Davatzikos (University of Pennsylvania, USA)]()
+Christos Davatzikos (University of Pennsylvania, USA)
 <br>
+Seyed Mostafa Kia (University of Tilburg, Netherlands)
 <br>
-[Seyed Mostafa Kia (University of Tilburg, Netherlands)]()
+Andre Marquand (Donders Institute, Netherlands)
 <br>
-<br>
-[Andre Marquand (Donders Institute, Netherlands)]()
-<br>
-<br>
-[Jonas Richiardi (Lausanne University Hospital, Switzerland)]()
-<br>
+Jonas Richiardi (Lausanne University Hospital, Switzerland)
 <br>
 
 ## Workshop Program Committee 
