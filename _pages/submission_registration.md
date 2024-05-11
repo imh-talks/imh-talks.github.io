@@ -8,7 +8,7 @@ Here you find all information regarding the submission & registration for the wo
 
 ## Registration
 
-Follow this [link](https://conferences.miccai.org/2024/en/REGISTRATION.html) to complete the registration procedure for this workshop MLCN 2024 via the MICCAI 2024 platform.
+Follow this [link](https://conferences.miccai.org/2024/en/REGISTRATION.html) to complete the registration procedure for this workshop MLCN 2024 via the MICCAI 2024 platform and 
 
 ## Important Dates
 
