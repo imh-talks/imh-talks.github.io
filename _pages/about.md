@@ -16,13 +16,13 @@ We are looking forward to seeing you @ this year's workshop!
 
 Don't hesitate to [contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
 <br>
-1) University of Tübingen's Excellence Cluster - Machine Learning: New Perspectives for Science with 3000 Euro
+1) University of Tübingen's Excellence Cluster on Machine Learning: New Perspectives for Science with 3000 Euro
 <br>
 <img align="left" src="https://mlcnworkshop.github.io/images/ml_logo.png" width="150 px" style="padding: 10px">
 <br>
 <br>
 <br>
-2) AI2D sponsors MLCN with 1500 USD
+2) University of Pennsylvania's AI2D sponsors MLCN with 1500 USD
 <br>
 <img align="left" src="https://mlcnworkshop.github.io/images/AI2D_logo.png" width="150 px" style="padding: 10px">
 <br>
