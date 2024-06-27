@@ -12,7 +12,7 @@ Follow this [link](https://conferences.miccai.org/2024/en/REGISTRATION.html) to 
 
 ## Important Dates
 
-Paper submission deadline: 29 June, 2024
+Paper submission deadline: 29 June, 2024 (23:59 PDT)
 <br>
 Notification of Acceptance: 15 July, 2024
 <br>
