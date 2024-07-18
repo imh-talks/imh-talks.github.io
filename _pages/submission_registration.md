@@ -18,7 +18,7 @@ Notification of Acceptance: 15 July, 2024
 <br>
 Camera-ready Submission: TBD
 <br>
-Workshop Date: TBD
+Workshop Date: 10 October, 2024
 <br>
 
 ## Call for Papers -> BEST PAPER(S) AWARD 1500 USD 
