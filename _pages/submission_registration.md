@@ -16,7 +16,7 @@ Paper submission deadline: 29 June, 2024 (23:59 PDT)
 <br>
 Notification of Acceptance: 15 July, 2024
 <br>
-Camera-ready Submission: 8 August 2024
+Camera-ready Submission: 8 August, 2024
 <br>
 Workshop Date: 10 October, 2024
 <br>
