@@ -12,6 +12,8 @@ You find the [submission link by clicking here](https://cmt3.research.microsoft.
 
 We are looking forward to seeing you @ this year's workshop!
 
+Workshop Date: 10 October, 2024
+
 ### Sponsors 
 
 Don't hesitate to [contact us](mailto:dr.thomas.wolfers@gmail.com) if you are intrested in sponsoring our event.
