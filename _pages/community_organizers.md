@@ -42,6 +42,8 @@ Jonas Richiardi (Lausanne University Hospital, Switzerland)
 <br>
 
 ## Reviewers 2024
+Alexander Frotscher
+<br>
 Amirhossein Rasoulian
 <br>
 Anne-Marie Rickmann
