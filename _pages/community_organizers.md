@@ -41,141 +41,100 @@ Andre Marquand (Donders Institute, Netherlands)
 Jonas Richiardi (Lausanne University Hospital, Switzerland)
 <br>
 
-## Workshop Program Committee 
-
-***2023***
+## Reviewers 2024
+Amirhossein Rasoulian
 <br>
-Amirhossein Rasoulian (Concordia University)
+Anne-Marie Rickmann
 <br>
-Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio)	
+Anoop	Benet Nirmala
 <br>
-Apoorva Sikka (Indian Institute of Technology Ropar)
+Benoit Dufumier
 <br>
-Benoit Dufumier (EPFL)
+Christian Gerloff
 <br>
-Christian Gerloff (RWTH Aachen University)
+Christian Wachinger
 <br>
-Didem Stark (Charite - Universitätsmedizin Berlin)
+Dhivya Srinivasan
 <br>
-Elina Thibeau-Sutre (University of Twente)
+Di Wang
 <br>
-Francesco La Rosa (Icahn School of Medicine at Mount Sinai)
+Didem Stark
 <br>
-Hao Guan (University of North Carolina at Chapel Hill)
+Fabian Bongratz
 <br>
-Hao	Li (Vanderbilt University)
+Fanyang Yu
 <br>
-Hao-Chun Yang (University of Tübingen)
+Francesco La Rosa
 <br>
-John A Onofrey (Yale University)
+Hao Li
 <br>
-Kassymzhomart	Kunanbayev (KAIST)
+Hao-Chun Yang
 <br>
-Lawrence H Staib (Yale University)
+Jiyao Wang
 <br>
-Mariam Zabihi (University College London)
+John A Onofrey
 <br>
-Martin Dyrba (German Center for Neurodegenerative Diseases)
+Kai-Cheng Chuang
 <br>
-Matías Bossa (Vrije Universiteit Brussel)
+Lawrence H	Staib
 <br>
-Matthias Wilms (University of Calgary)
+Lucas Mahler
 <br>
-Naresh Nandakumar (JHU)
+Martin Dyrba
 <br>
-Nicolas Honnorat (UTHSCSA)
+Mathilde Antoniades
 <br>
-Niharika S. D'Souza (IBM Research)
+Matthias N	Bossa
 <br>
-Nikhil J Dhinagar (University of Southern California)
+Matthias Wilms
 <br>
-Owen T Carmichael (Pennington Biomedical Research Center)
+Michael Tran Duong
 <br>
-Peiyu Duan (Yale University)
+Mumu Aktar
 <br>
-Ruisheng Su (Erasmus MC)
+Nicolas Honnorat
 <br>
-Sarah Lee (Amallis Consulting)
+Niharika S. D'Souza
 <br>
-Stefanos Ioannou (Imperial College London)
+Nikhil J	Dhinagar
 <br>
-Sukrit Gupta (Hasso Plattner Institute)
+Owen T	Carmichael
 <br>
-Tara Chand (University of Jena)
+Peiyu	Duan
 <br>
-Tianbo Xu (Imperial College London)
+Ruisheng Su
 <br>
-Tommy Löfstedt (Umeå University)
+Stefanos Ioannou
 <br>
-Vinod Kumar (University of Tübingen)
+Tara Chand
 <br>
-Xing Yao (Vanderbilt University)
+Thomas Wolfers
 <br>
-Xueqi Guo (Yale University)
+Tianbo Xu
 <br>
-Yiming Xiao (Concordia Univeristy)
+Tianyi Zeng
 <br>
-Yuan Zhou (Fudan University)
+Vasiliki Tassopoulou
 <br>
-Zhen Zhou (University of Pennsylvania)
+Vinod Kumar
 <br>
+Xueqi Guo
 <br>
-
-***Previous***
+Yi Hao Chan
 <br>
-Anoop Benet Nirmala (University of Texas Health Science Center at San Antonio, USA)
+Yiming Xiao
 <br>
-Özgün Çiçek (University of Freiburg, Germany)
+Yuan Zhou
 <br>
-Onat Dalmaz (Bilkent Üniversitesi, Turkey)
+Yuexi Du
 <br>
-Augustijn de Boer (Radboud University, the Netherlands)
+Yuhan Cui
 <br>
-Niharika S. D’Souza (IBM, USA)
+Zhen Zhou
 <br>
-Edouard Duchesnay (NeuroSpin, France)
+Zhenghan Fang
 <br>
-Benoit Dufumier (NeuroSpin, France)
-<br>
-Martin Dyrba (German Center for Neurodegenerative Diseases, Germany)
-<br>
-Ahmed Elgazzar (Academisch Medisch Centrum Universiteit van Amsterdam, the Netherlands)
-<br>
-Xueqi Guo (Yale University, USA)
-<br>
-Francesco La Rosa (Ecole Polytechnique Fédérale de Lausanne, Switzerland)
-<br>
-Sarah Lee (Amallis Consulting, UK)
-<br>
-Tommy Löfstedt (Umeå universitet, Sweden)
-<br>
-John A. Onofrey (Yale University, USA)
-<br>
-Saige Rutherford (Radboud University Medical Center, the Netherlands)
-<br>
-Anil Kumar Sao (IIT Mandi, India)
-<br>
-Apoorva Sikka (Contextflow, Austria)
-<br>
-Sourena Soheili Nezhad (Radboud University Medical Center, The Netherlands)
-<br>
-Lawrence Staib (Yale University, USA)
-<br>
-Didem Stark (Bernstein Center for Computational Neuroscience, Germany)
-<br>
-Archana Venkataraman (Johns Hopkins University, USA)
-<br>
-Matthias Wilms (University of Calgary, Canada)
-<br>
-Tianbo Xu (University College London, UK)
-<br>
-Xing Yao (Vanderbilt University, USA)
-<br>
-Mariam Zabihi (University College London, UK)
-<br>
-Yuan Zhou (Fudan University, China)
-<br>
-Juntang Zhuang (Yale University, USA)
+Zhoutong Cai
 <br>
 
 ## Previous Workshop Organizers
