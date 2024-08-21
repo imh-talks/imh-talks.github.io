@@ -6,6 +6,7 @@ title: "Community & Organizers"
 Various researchers, labs, and institutes contribute to this workshop.
 
 ## Workshop Organizers
+
 [Deepti R. Bathula (Indian Institute of Technology Ropar, India)](https://cse.iitrpr.ac.in/deepti/)
 <br>
 <br>
@@ -16,6 +17,9 @@ Various researchers, labs, and institutes contribute to this workshop.
 <br>
 <br>
 [Vinod Kumar (Max Planck Institute for Biological Cybernetics, Germany)](https://www.kyb.tuebingen.mpg.de/person/58996/2549)
+<br>
+<br>
+[Ahmed Nebli (Heinrich Heine University Düsseldorf, Düsseldorf, Germany)]()
 <br>
 <br>
 [Anoop Benet Nirmala (Manipal Institute of Technology, India)](https://www.linkedin.com/in/anoop-benet-nirmala-phd-582213b0/)
