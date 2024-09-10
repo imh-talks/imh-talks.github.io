@@ -17,4 +17,4 @@ Abstract: This keynote explores the intersection of artificial intelligence, in 
 
 ### PROGRAMME
 <br>
-<img align="left" src="https://mlcnworkshop.github.io/images/WS_pro.png" width="2000 px" style="padding: 10px">
+<img align="left" src="https://mlcnworkshop.github.io/images/image.png" width="2000 px" style="padding: 10px">
