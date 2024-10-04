@@ -11,7 +11,7 @@ Abstract: In June 2014, an article was published in the journal of Brain Imaging
 
 ### KEYNOTE - Ehsan Adeli
 
-***Title:Data-Driven Exploration of the Interplay between Human Actions and Neural Circuitry***
+***Title: Data-Driven Exploration of the Interplay between Human Actions and Neural Circuitry***
 <br>
 Abstract: Automatic analysis of actions (from videos) and identifying their relations to the underlying neural circuitry (using structural and functional MRIs) can lead to a novel mechanistic understanding of brain cognition and how neurological disorders disrupt these links. The recognized associations between brain circuitry (mind) and movement (motion) will further lead to identifying signs and symptoms of neuropsychiatric and neurodegenerative disorders enabling the discovery of relations between movement-linked brain disruptions. In this talk, I will discuss how recent advances in computer vision and computational neuroscience contribute to discovering behavioral and neural phenotypes of healthy aging and neurological disorders. I will additionally describe how such data-driven approaches could be used to discover movement-linked heterogeneity in neurodegenerative diseases. 
 
