@@ -15,7 +15,7 @@ Dr. Udunna Anazodo is a William Dawson Scholar and Assistant Professor of Neurol
 <br>
 ## Dr. Ehsan Adeli
 Assistant Professor, Stanford, USA
-<img align="left" src="https://mlcnworkshop.github.io/images/" width="200 px" style="padding: 10px">
+<img align="left" src="https://mlcnworkshop.github.io/images/Ehsan.jpg" width="200 px" style="padding: 10px">
 Dr. Adeli, Director of Translational AI Research, develops AI algorithms to address healthcare and neuroscience challenges. He bridges human actions and brain function through MRI analysis, pioneering explainable machine learning to uncover neurodegenerative diseases' roots, integrating digital human modeling with neuroscience for deeper clinical insights.
 
 ## Previous Keynote Speakers
