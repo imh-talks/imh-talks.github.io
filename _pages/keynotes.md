@@ -13,12 +13,10 @@ Dr. Udunna Anazodo is a William Dawson Scholar and Assistant Professor of Neurol
 <br>
 <br>
 <br>
-## Dr. Islem Rekik
-Associate Professor, Imperial College London, UK
-<br>
-<br>
-<img align="left" src="https://mlcnworkshop.github.io/images/rekik.jpg" width="200 px" style="padding: 10px">
-Dr. Islem Rekik is the Director of the Brain And SIgnal Research and Analysis (BASIRA) laboratory (http://basira-lab.com/) and an Associate Professor at Imperial College London (Innovation Hub I-X).  Together with BASIRA members, she conducted more than 90 cutting-edge research projects cross-pollinating AI and healthcare —with a sharp focus on brain imaging and neuroscience. She is also a co/chair/organizer of more than 25 international first-class conferences/workshops/competitions (e.g., Affordable AI 2021-22, Predictive AI 2018-2024, Machine Learning in Medical Imaging 2021-24, WILL competition 2021-23).  In addition to her 150+ high-impact publications, she is a strong advocate of equity, inclusiveness and diversity in research. She is the former president of the Women in MICCAI (WiM) and the co-founder of the international RISE Network to Reinforce Inclusiveness & diverSity and Empower minority researchers in Low-Middle Income Countries (LMIC).
+## Dr. Ehsan Adeli
+Assistant Professor, Stanford, USA
+<img align="left" src="https://mlcnworkshop.github.io/images/" width="200 px" style="padding: 10px">
+Dr. Adeli, Director of Translational AI Research, develops AI algorithms to address healthcare and neuroscience challenges. He bridges human actions and brain function through MRI analysis, pioneering explainable machine learning to uncover neurodegenerative diseases' roots, integrating digital human modeling with neuroscience for deeper clinical insights.
 
 ## Previous Keynote Speakers
 2023 - Neda Jahanshad || Catie Chang
